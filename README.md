@@ -15,6 +15,3 @@ They can also improve record visibility for all parties and facilitate payment t
 - truffle serve
 
 - Access application - http://localhost:8080
-
-## Addtional Documentation
-Check out this [blog](https://medium.com/@rajiv.cheriyan/lets-get-started-with-your-first-ethereum-dapp-f09feb59dd78) for more details
