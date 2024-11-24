@@ -8,8 +8,8 @@ They can also improve record visibility for all parties and facilitate payment t
 - npm install -g truffle
 - mkdir demo
 - cd demo
-- git clone https://github.com/rajivjc/mortgage-blockchain-demo.git
-- cd mortgage-blockchain-demo
+- git clone https://github.com/vipin-tiwari/blockchain-demo.git
+- cd blockchain-demo
 - npm install
 - truffle build
 - truffle serve
